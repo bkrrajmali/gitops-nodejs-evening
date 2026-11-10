@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/bkrrajmali/gitops-nodejs-demo.git
+    repoURL: https://github.com/bkrrajmali/gitops-nodejs-evening.git
     targetRevision: prod
     path: k8s
   destination:
